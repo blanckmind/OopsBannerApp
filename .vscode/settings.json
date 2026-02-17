@@ -1,5 +1,6 @@
 {
     "terminal.integrated.commandsToSkipShell": [
         ""
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
